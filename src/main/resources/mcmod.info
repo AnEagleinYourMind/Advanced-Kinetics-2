@@ -1,0 +1,16 @@
+[
+{
+  "modid": "${modId}",
+  "name": "${modName}",
+  "description": "A variety of tools and constructs to influence and control motion.",
+  "version": "2.0.1",
+  "mcversion": "${minecraftVersion}",
+  "url": "https://github.com/AnEagleinYourMind/Advanced-Kinetics-2/",
+  "updateUrl": "",
+  "authorList": ["hexaguin", "AnEagleinYourMind"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

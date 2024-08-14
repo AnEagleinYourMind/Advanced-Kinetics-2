@@ -1,0 +1,25 @@
+itemGroup.tabAdvancedKinetics=Advanced Kinetics 2
+
+tile.caution_block.name=Standardised Chromatic Hazard Indicator
+tile.caution_light_block.name=Standardised Luminescent Chromatic Hazard Indicator
+
+tile.basic_field_block.name=Basic Field Core
+tile.targeting_field_block.name=Targeting Field Core
+
+tile.effect_block.0.name=Field Effect: Accelerate
+tile.effect_block.1.name=Field Effect: Bounce
+tile.effect_block.2.name=Field Effect: Burn
+tile.effect_block.3.name=Field Effect: Move
+tile.effect_block.4.name=Field Effect: Pull
+tile.effect_block.5.name=Field Effect: Slow
+
+tile.modifier_block.0.name=Field Modifier: Double Range
+tile.modifier_block.1.name=Field Modifier: Double Size
+tile.modifier_block.2.name=Field Modifier: Half Range
+
+tile.filter_block.0.name=Entity Filter: Living
+tile.filter_block.1.name=Entity Filter: Non-Living
+tile.filter_block.2.name=Entity Filter: Players
+
+item.advancedkinetics_glideGenerator.0.name=Portable Glide Field Generator (Inactive)
+item.advancedkinetics_glideGenerator.1.name=Portable Glide Field Generator (Active)
