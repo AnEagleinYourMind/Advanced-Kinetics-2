@@ -13,7 +13,6 @@ import net.minecraft.util.IIcon;
 import java.util.List;
 
 public class BlockEntityFilter extends AbstractAKBlock {
-    @SideOnly(Side.CLIENT)
     private static IIcon[] textures = new IIcon[3];
 
     private static final String[] TEXTURE_NAMES = {

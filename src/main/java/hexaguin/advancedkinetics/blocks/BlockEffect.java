@@ -12,7 +12,6 @@ import net.minecraft.util.IIcon;
 import java.util.List;
 
 public class BlockEffect extends AbstractAKBlock {
-    @SideOnly(Side.CLIENT)
     private static IIcon[] textures;
 
     public static final String[] TEXTURE_NAMES = {
